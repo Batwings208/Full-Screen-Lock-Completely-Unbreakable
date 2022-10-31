@@ -1,6 +1,21 @@
+#Use wisely
+#For educational Purposes
+#Created By Batwings208
+#You are responsible for your actions
 from tkinter import *
 from tkinter import ttk
 from pynput import *
+
+
+"""
+import pynput
+import time
+
+keyboard = pynput.keyboard.Listener(supress=True) # this here deactivates your keyboard
+keyboard.start() # this is where ur keyboard will stop working
+
+#make sure to have a way to kill the entire program and that will bring ur keyboard back online, if the program stays on, ur keyboard stays offline
+"""
 
 tk = Tk()
 tk.attributes('-fullscreen', True)
