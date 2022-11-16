@@ -1,4 +1,5 @@
 # FullScreenLock
+Best works with "Windows" but possible on "Macintosh"
 This program will allow you to get stuck in fullscreen forever
 
 However this program is breakable by pressing the 'Begin' button but u can delete it later.
